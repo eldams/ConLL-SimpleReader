@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # A very simple CoNLL format parser
+# Just give him lines to initialize structure
 # Written by Damien Nouvel
 
 class CoNLLSentence:
